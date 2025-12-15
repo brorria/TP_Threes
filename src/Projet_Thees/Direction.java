@@ -8,5 +8,6 @@ package Projet_Thees;
 
 public enum Direction {
     UP, DOWN, LEFT, RIGHT
+    
 }
 

@@ -34,6 +34,7 @@ public class Projet_Thees_V01 {
 
             game.jouerCoup(dir);
             System.out.println(game.getGrille());
+            
         }
     }
 }

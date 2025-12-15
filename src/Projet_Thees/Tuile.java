@@ -27,5 +27,6 @@ public class Tuile {
     public boolean estVide() {
         return valeur == 0;
     }
+    
 }
 
