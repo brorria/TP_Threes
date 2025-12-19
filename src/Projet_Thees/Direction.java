@@ -4,8 +4,10 @@
  */
 package Projet_Thees;
 
-
-
+/**
+ *
+ * @author martincorria
+ */
 public enum Direction {
     UP, DOWN, LEFT, RIGHT
     

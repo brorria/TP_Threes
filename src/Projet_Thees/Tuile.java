@@ -1,9 +1,8 @@
-package Projet_Thees;
-
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
+package Projet_Thees;
 
 public class Tuile {
     private int valeur; // 0 = vide
@@ -29,4 +28,3 @@ public class Tuile {
     }
     
 }
-
